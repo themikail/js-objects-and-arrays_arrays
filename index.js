@@ -62,7 +62,7 @@ unshiftedPets.unshift("hamster");
 console.log(unshiftedPets);
 
 // EXERCISE 9
-// Use the shift method to remove the first item from shiftedFruits.
+// Use the shiftt method to remove the first item from shiftedFruits.
 
 const shiftedFruits = ["apple", "banana", "mango"];
 
