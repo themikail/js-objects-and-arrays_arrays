@@ -30,11 +30,11 @@ fruits[0] = "mango";
 console.log(fruits[0]);
 
 // EXERCISE 5
-// Change the value of nestedNumber to equal the fourth number of nestedNumbers using bracket notation.
+// Change the value of nestedNumber to equal the fourth (SPRACH) number of nestedNumbers using bracket notation.
 
 const nestedNumbers = [10, [20, 30, [40, 50]]];
 
-const nestedNumber = nestedNumbers[1][2][1];
+const nestedNumber = nestedNumbers[1][2][0];
 console.log(nestedNumber);
 
 // EXERCISE 6
